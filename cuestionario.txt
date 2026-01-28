@@ -1,0 +1,20 @@
+a. ¿Para qué sirve una rama en Git?
+Una rama en Git sirve para desarrollar nuevas funcionalidades, hacer pruebas o corregir errores sin afectar al código principal del proyecto.
+
+b. ¿Qué es un conflicto y cuándo se produce?
+Un conflicto ocurre cuando Git no puede unir automáticamente los cambios de dos ramas, normalmente porque se ha modificado la misma parte de un archivo.
+
+c. ¿Por qué es importante usar buenos mensajes en los commit?
+Porque permiten entender qué cambios se han realizado en cada commit y facilitan el mantenimiento y seguimiento del proyecto.
+
+d. ¿Por qué no deberíamos trabajar directamente sobre main?
+Porque main es la rama estable del proyecto y trabajar directamente sobre ella puede introducir errores que afecten al funcionamiento general.
+
+e. ¿Qué ocurre si haces un commit sin haber añadido los cambios al área de staging?
+El commit se realiza, pero no incluye los cambios que no se hayan añadido previamente al área de staging.
+
+f. ¿Por qué es importante usar Git en proyectos en equipo?
+Porque permite que varias personas trabajen a la vez, controlando versiones, evitando pérdidas de código y facilitando la colaboración.
+
+g. ¿Qué problemas pueden surgir si no se utilizan ramas en un proyecto colaborativo?
+Pueden producirse errores frecuentes, conflictos constantes, sobrescritura de trabajo y dificultad para desarrollar nuevas funcionalidades.
